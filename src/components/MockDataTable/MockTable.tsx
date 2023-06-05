@@ -1,4 +1,3 @@
-import { Eye, Trash } from "phosphor-react";
 import { useMockUserDetails } from "../../api/mockTableData";
 import useLocalStorage from "../../hooks/useLocalStorage";
 import Table, { HiddenCols, type TableHeader } from "../Table";

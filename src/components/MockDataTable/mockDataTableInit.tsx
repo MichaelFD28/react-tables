@@ -1,6 +1,6 @@
 import { type TableContent, type TableHeader } from "../Table";
 import { UserDetails } from "../../models/mockData";
-import { formatDateToString } from "../../uitils/formatDateToString";
+import { formatDateToString } from "../../utils/formatDateToString";
 import clsx from "clsx";
 
 export type UserDetailsTableAllowedIds =
