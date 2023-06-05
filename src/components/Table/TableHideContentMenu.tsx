@@ -86,7 +86,7 @@ const TableHideContentMenu: React.FC<TableHideContentMenuProps> = ({
             nonce={undefined}
             sx={{
               "&:hover": {
-                backgroundColor: "#ADD53A",
+                backgroundColor: "#5EEAD4",
               },
               width: 228,
               height: 48,
@@ -110,7 +110,7 @@ const TableHideContentMenu: React.FC<TableHideContentMenuProps> = ({
                   onClick={() => handleColumnToggle(h.id)}
                   sx={{
                     "&:hover": {
-                      backgroundColor: "#ADD53A",
+                      backgroundColor: "#5EEAD4",
                     },
                     height: 48,
                   }}

@@ -64,8 +64,8 @@ const Table: React.FC<TableProps> = ({
   };
 
   return (
-    <div className="grid place-items-end overflow-x-auto">
-      <table className="border-black w-full min-w-max divide-y-[2px] divide-black bg-neutral-800 rounded-md">
+    <div className="grid place-items-end overflow-x-auto border border-black rounded-md">
+      <table className="w-full min-w-max divide-y-[2px] divide-black bg-neutral-800 rounded-md">
         <thead>
           <tr>
             <td className="m-auto py-6" />

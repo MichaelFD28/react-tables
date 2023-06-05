@@ -64,7 +64,7 @@ const TableMenu: React.FC<TableMenuProps> = ({ menuItems }) => {
               handleClose();
             }}
             sx={{
-              "&:hover": { backgroundColor: "#ADD53A" },
+              "&:hover": { backgroundColor: "#5EEAD4" },
               height: 48,
             }}
           >
